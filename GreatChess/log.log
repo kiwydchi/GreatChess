@@ -1,0 +1,102 @@
+14:04:52.634 INFO   greatchess.board.Board - Доска проинициализированна успешно.
+14:04:52.671 INFO   greatchess.functional.Field - Фигура R была размещена на клетке: A1
+14:04:52.674 INFO   greatchess.functional.Field - Фигура Kn была размещена на клетке: B1
+14:04:52.677 INFO   greatchess.functional.Field - Фигура B была размещена на клетке: C1
+14:04:52.680 INFO   greatchess.functional.Field - Фигура V была размещена на клетке: D1
+14:04:52.682 INFO   greatchess.functional.Field - Фигура G была размещена на клетке: E1
+14:04:52.685 INFO   greatchess.functional.Field - Фигура K была размещена на клетке: F1
+14:04:52.687 INFO   greatchess.functional.Field - Фигура Q была размещена на клетке: G1
+14:04:52.687 INFO   greatchess.functional.Field - Фигура B была размещена на клетке: H1
+14:04:52.687 INFO   greatchess.functional.Field - Фигура Kn была размещена на клетке: I1
+14:04:52.687 INFO   greatchess.functional.Field - Фигура R была размещена на клетке: J1
+14:04:52.688 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: A2
+14:04:52.688 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: B2
+14:04:52.689 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: C2
+14:04:52.689 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: D2
+14:04:52.689 INFO   greatchess.functional.Field - Фигура WM была размещена на клетке: E2
+14:04:52.690 INFO   greatchess.functional.Field - Фигура WM была размещена на клетке: F2
+14:04:52.690 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: G2
+14:04:52.690 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: H2
+14:04:52.690 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: I2
+14:04:52.690 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: J2
+14:04:52.693 INFO   greatchess.functional.Field - Клетка A3 пуста
+14:04:52.693 INFO   greatchess.functional.Field - Клетка B3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Клетка C3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Клетка D3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: E3
+14:04:52.694 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: F3
+14:04:52.694 INFO   greatchess.functional.Field - Клетка G3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Клетка H3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Клетка I3 пуста
+14:04:52.694 INFO   greatchess.functional.Field - Клетка J3 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка A4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка B4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка C4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка D4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка E4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка F4 пуста
+14:04:52.695 INFO   greatchess.functional.Field - Клетка G4 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка H4 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка I4 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка J4 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка A5 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка B5 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка C5 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка D5 пуста
+14:04:52.696 INFO   greatchess.functional.Field - Клетка E5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка F5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка G5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка H5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка I5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка J5 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка A6 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка B6 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка C6 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка D6 пуста
+14:04:52.697 INFO   greatchess.functional.Field - Клетка E6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка F6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка G6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка H6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка I6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка J6 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка A7 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка B7 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка C7 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка D7 пуста
+14:04:52.698 INFO   greatchess.functional.Field - Клетка E7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка F7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка G7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка H7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка I7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка J7 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка A8 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка B8 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка C8 пуста
+14:04:52.699 INFO   greatchess.functional.Field - Клетка D8 пуста
+14:04:52.700 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: E8
+14:04:52.700 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: F8
+14:04:52.700 INFO   greatchess.functional.Field - Клетка G8 пуста
+14:04:52.700 INFO   greatchess.functional.Field - Клетка H8 пуста
+14:04:52.700 INFO   greatchess.functional.Field - Клетка I8 пуста
+14:04:52.701 INFO   greatchess.functional.Field - Клетка J8 пуста
+14:04:52.701 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: A9
+14:04:52.701 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: B9
+14:04:52.701 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: C9
+14:04:52.701 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: D9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура WM была размещена на клетке: E9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура WM была размещена на клетке: F9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: G9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: H9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: I9
+14:04:52.702 INFO   greatchess.functional.Field - Фигура P была размещена на клетке: J9
+14:04:52.703 INFO   greatchess.functional.Field - Фигура R была размещена на клетке: A10
+14:04:52.704 INFO   greatchess.functional.Field - Фигура Kn была размещена на клетке: B10
+14:04:52.704 INFO   greatchess.functional.Field - Фигура B была размещена на клетке: C10
+14:04:52.705 INFO   greatchess.functional.Field - Фигура Q была размещена на клетке: D10
+14:04:52.706 INFO   greatchess.functional.Field - Фигура K была размещена на клетке: E10
+14:04:52.707 INFO   greatchess.functional.Field - Фигура G была размещена на клетке: F10
+14:04:52.708 INFO   greatchess.functional.Field - Фигура V была размещена на клетке: G10
+14:04:52.708 INFO   greatchess.functional.Field - Фигура B была размещена на клетке: H10
+14:04:52.708 INFO   greatchess.functional.Field - Фигура Kn была размещена на клетке: I10
+14:04:52.709 INFO   greatchess.functional.Field - Фигура R была размещена на клетке: J10
+14:04:52.942 INFO   greatchess.functional.Field - Поле проинициализированно успешно.
